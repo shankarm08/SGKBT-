@@ -5,7 +5,9 @@ Welcome to the SGKBDT app for android
 
 This is an open source Android app developed by Shankar.
 
-I am not collecting user data here in our application we are just using for the blood donors
+I am not collecting user data here in my application we are just using for the blood donors
+
+Above 18 years of age can use my application since it is desinged for blood donors
 
 
 
