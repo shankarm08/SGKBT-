@@ -1,0 +1,2 @@
+# SGKBT-
+privacy policy
